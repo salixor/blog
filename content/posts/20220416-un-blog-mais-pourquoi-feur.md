@@ -1,8 +1,6 @@
 ---
 title: "Un blog ? Mais pourquoi feur ?"
 date: 2022-04-16T19:47:11+01:00
-draft: true
-author: 'salixor'
 tags: ['blog']
 ---
 
