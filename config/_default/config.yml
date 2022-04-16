@@ -1,0 +1,26 @@
+title: salixor/blog
+baseURL: https://salixor.github.io/blog
+theme: etch
+languageCode: fr-FR
+
+menu:
+  main:
+    - identifier: posts
+      name: /posts
+      url: /
+      weight: 10
+    - identifier: tags
+      name: /tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: /about
+      url: /about/
+      weight: 30
+
+permalinks:
+  posts: "/:title/"
+
+params:
+  dark: auto
+  highlight: true
